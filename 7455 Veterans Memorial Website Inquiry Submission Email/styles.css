@@ -1,0 +1,217 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1200px;
+	 height: 1194px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 1194px;
+	 z-index:1;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 91px; 
+	 top: 672px; 
+	 position: absolute; 
+	 width: 519px;
+	 height: 259px;
+	 z-index:2;
+} 
+
+ #KIMRICHTER 
+{ 
+	 left: 315px; 
+	 top: 716px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 26px;
+	 z-index:3;
+} 
+
+ #RealtorBroker 
+{ 
+	 left: 333px; 
+	 top: 759px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 21px;
+	 z-index:4;
+} 
+
+ #WWW7455VETERANSMEMOR 
+{ 
+	 left: 333px; 
+	 top: 979px; 
+	 position: absolute; 
+	 width: 543px;
+	 height: 26px;
+	 z-index:5;
+} 
+
+ #Shape2 
+{ 
+	 left: 65px; 
+	 top: 1047px; 
+	 position: absolute; 
+	 width: 1074px;
+	 height: 92px;
+	 z-index:6;
+} 
+
+ #Phone3142343345 
+{ 
+	 left: 307px; 
+	 top: 829px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 20px;
+	 z-index:7;
+} 
+
+ #Emailkrichtermckelve 
+{ 
+	 left: 236px; 
+	 top: 866px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 19px;
+	 z-index:8;
+} 
+
+ #Screenshot20240728at 
+{ 
+	 left: 682px; 
+	 top: 671px; 
+	 position: absolute; 
+	 width: 427px;
+	 height: 257px;
+	 z-index:9;
+} 
+
+ #DISCLAIMERMcKelveyPr 
+{ 
+	 left: 68px; 
+	 top: 1065px; 
+	 position: absolute; 
+	 width: 1063px;
+	 height: 53px;
+	 z-index:10;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 924px; 
+	 top: 1118px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 53px;
+	 z-index:11;
+} 
+
+ #Unsubscribe 
+{ 
+	 left: 964px; 
+	 top: 1133px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 20px;
+	 z-index:12;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 931px; 
+	 top: 1132px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 22px;
+	 z-index:13;
+} 
+
+ #Rectangle5 
+{ 
+	 left: 154px; 
+	 top: 369px; 
+	 position: absolute; 
+	 width: 844px;
+	 height: 96px;
+	 z-index:14;
+} 
+
+ #PDFDOWNLOADLINKHERE 
+{ 
+	 left: 192px; 
+	 top: 403px; 
+	 position: absolute; 
+	 width: 472px;
+	 height: 28px;
+	 z-index:15;
+} 
+
+ #Layer1 
+{ 
+	 left: 678px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 329px;
+	 height: 140px;
+	 z-index:16;
+} 
+
+ #Ifyourequireanimmedi 
+{ 
+	 left: 78px; 
+	 top: 513px; 
+	 position: absolute; 
+	 width: 1020px;
+	 height: 54px;
+	 z-index:17;
+} 
+
+ #Thankyouforreachingo 
+{ 
+	 left: 75px; 
+	 top: 152px; 
+	 position: absolute; 
+	 width: 1044px;
+	 height: 144px;
+	 z-index:18;
+} 
+
+ #Allthebestinsecuring 
+{ 
+	 left: 71px; 
+	 top: 605px; 
+	 position: absolute; 
+	 width: 561px;
+	 height: 28px;
+	 z-index:19;
+} 
+
+ #Dearfirstname 
+{ 
+	 left: 75px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 33px;
+	 z-index:20;
+} 
