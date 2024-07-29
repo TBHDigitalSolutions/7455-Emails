@@ -1,0 +1,207 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 600px;
+	 height: 570px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 570px;
+	 z-index:1;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 51px; 
+	 top: 288px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 128px;
+	 z-index:2;
+} 
+
+ #KIMRICHTER 
+{ 
+	 left: 161px; 
+	 top: 310px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 13px;
+	 z-index:3;
+} 
+
+ #RealtorBroker 
+{ 
+	 left: 170px; 
+	 top: 331px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 12px;
+	 z-index:4;
+} 
+
+ #WWW7455VETERANSMEMOR 
+{ 
+	 left: 162px; 
+	 top: 443px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 14px;
+	 z-index:5;
+} 
+
+ #Shape2 
+{ 
+	 left: 42px; 
+	 top: 482px; 
+	 position: absolute; 
+	 width: 517px;
+	 height: 45px;
+	 z-index:6;
+} 
+
+ #Phone3142343345 
+{ 
+	 left: 157px; 
+	 top: 366px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 10px;
+	 z-index:7;
+} 
+
+ #Emailkrichtermckelve 
+{ 
+	 left: 122px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 10px;
+	 z-index:8;
+} 
+
+ #Screenshot20240728at 
+{ 
+	 left: 342px; 
+	 top: 290px; 
+	 position: absolute; 
+	 width: 206px;
+	 height: 124px;
+	 z-index:9;
+} 
+
+ #DISCLAIMERMcKelveyPr 
+{ 
+	 left: 43px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 513px;
+	 height: 26px;
+	 z-index:10;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 468px; 
+	 top: 517px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 23px;
+	 z-index:11;
+} 
+
+ #Unsubscribe 
+{ 
+	 left: 475px; 
+	 top: 523px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 11px;
+	 z-index:12;
+} 
+
+ #Rectangle5 
+{ 
+	 left: 83px; 
+	 top: 123px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 48px;
+	 z-index:13;
+} 
+
+ #PDFDOWNLOADLINKHERE 
+{ 
+	 left: 102px; 
+	 top: 140px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 14px;
+	 z-index:14;
+} 
+
+ #Layer1 
+{ 
+	 left: 336px; 
+	 top: 101px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 67px;
+	 z-index:15;
+} 
+
+ #Shouldyouhaveanyfurt 
+{ 
+	 left: 54px; 
+	 top: 198px; 
+	 position: absolute; 
+	 width: 500px;
+	 height: 28px;
+	 z-index:16;
+} 
+
+ #Thankyouforyourinter 
+{ 
+	 left: 54px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 484px;
+	 height: 42px;
+	 z-index:17;
+} 
+
+ #Allthebestinsecuring 
+{ 
+	 left: 44px; 
+	 top: 253px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 15px;
+	 z-index:18;
+} 
+
+ #Rectangle6 
+{ 
+	 left: -2px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 603px;
+	 height: 574px;
+	 z-index:19;
+} 
